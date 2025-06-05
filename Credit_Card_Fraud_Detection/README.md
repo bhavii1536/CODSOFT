@@ -25,3 +25,8 @@ Develop a machine learning model to identify fraudulent credit card transactions
 - **Accuracy**: Approximately 99.6% on the test set.
 - **Confusion Matrix**:
 
+
+Files
+ - Credit_Card_Fraud_Detection.ipynb – Full code in Colab
+ - README.md – Project description (attached with dataset link)
+
