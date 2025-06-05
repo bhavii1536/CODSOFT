@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-**TASK 5 – Machine Learning Internship at CODSOFT**
+**TASK 2 – Machine Learning Internship at CODSOFT**
 
 # Objective
 Develop a machine learning model to identify fraudulent credit card transactions using the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
